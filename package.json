@@ -1,0 +1,14 @@
+{
+  "name": "mktouch",
+  "version": "2019.4.13",
+  "description": "mkdir+touch",
+  "keywords": [
+    "mktouch",
+    "touch"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/mktouch.py",
+  "license": "Unlicense",
+  "bin": {
+    "mktouch": "./scripts/mktouch"
+  }
+}
